@@ -120,6 +120,7 @@ a:focus {
   font-size: 15px;
   color: var(--text-muted);
   line-height: 1.1;
+  margin-top: 8px;
 }
 
 .header-contact {
@@ -448,3 +449,4 @@ p.feature-section-intro {
     grid-template-columns: repeat(3, 1fr);
   }
 }
+
